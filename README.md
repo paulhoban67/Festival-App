@@ -5,4 +5,7 @@ Aplicatia extrage date din fisiere de tip CSV sau TXT, modalitatea de extragere 
 Aplicatia are si o serie de teste pentru fiecare clasa din Entity, Repo, Service care sunt verificate de fiecare data la inceperea aplicatiei
 
 Imagine unde se poate observare alegerea tipului de fisier, logarea si cumpararea unui bilet: 
+
+
+
 ![image](https://user-images.githubusercontent.com/62211568/111203045-32ae3680-85cd-11eb-8516-d259bf27687a.png)
