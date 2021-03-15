@@ -1,0 +1,7 @@
+FI Titanic LeonardoDiCaprio;KateWinzlet 10/05/2020 Cluj-Napoca 200 200
+FI TheStranger Strangers 11/05/2020 Cluj-Napoca 200 100
+FI Tom&Jerry Tom;Jerry;Doggy 10/05/2020 Cluj-Napoca 77 423
+FI Safe Melanie 15/05/2020 Cluj-Napoca 100 200
+FI Sacrificiul CristinaCiobanasu;VladGherman 12/05/2020 Bucuresti 200 300
+FI Pistruiatul UnPistruiat 10/05/2020 Bucuresti 100 50
+FI FructulOprit CristinaCiobanasu 12/02/2020 Bucuresti 200 200
