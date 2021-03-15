@@ -1,7 +1,0 @@
-AR LadyGaga 15/05/2020 Cluj-Napoca 280 170
-AR CharliePuth 10/05/2020 Cluj-Napoca 180 120
-AR Beyonce 9/05/2020 Cluj-Napoca 77 423
-AR MichaelJacson 18/05/2020 Cluj-Napoca 100 200
-AR Delia 15/05/2020 Bucuresti 100 100
-AR Andra 10/05/2020 Bucuresti 100 200
-AR Sia 23/02/2020 Bucuresti 300 200
